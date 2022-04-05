@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  /* @media screen and (max-width: 768px) { */
+ 
+    .my-flex-card > div > div.card {
+        height: calc(100% - 15px);
+        margin-bottom: 15px;
+    } 
+
